@@ -28,4 +28,4 @@ if boxes_needed > 0:
         " for breakfast!")
 else:
     print(
-        "The Eggs fit perfectly in " + str(cartons_needed) + " cartons and " + str(boxes_needed) + " boxes and you can eat " + str(eggs_remaining) + " for breakfast!")
+        "The Eggs fit perfectly in " + str(cartons_needed) + " cartons and you can eat " + str(eggs_remaining) + " for breakfast!")
