@@ -1,7 +1,6 @@
 # The Egg Farmer's Puzzle - www.101computing.net/the-egg-farmer-puzzle/
-
-# Can be solved with math or for-loops
-# This is the loop solution
+# Can be solved with math or loops
+# This is the for loop solution
 
 print("How many eggs did you get today, Farmer?")
 eggs = int(input())
